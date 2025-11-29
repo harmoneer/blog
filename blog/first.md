@@ -1,5 +1,3 @@
-This is my first blog post!
-
 # This is a header
 This is a paragraph with list:
 - Option 1
